@@ -175,9 +175,11 @@ const App = () => {
 					onChange={(event) => setMessage(event.target.value)}
 				></input>
 
-				<button className="waveButton" onClick={wave}>
-					Say Hi!
-				</button>
+				{currentAccount && (
+					<button className="waveButton" onClick={wave}>
+						Say Hi!
+					</button>
+				)}
 
 				{!currentAccount && (
 					<button className="waveButton" onClick={connectWallet}>
