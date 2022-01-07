@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/buildspace-hello-eth-frontend/static/css/main.0e632e19.chunk.css",
-    "main.js": "/buildspace-hello-eth-frontend/static/js/main.9469ab53.chunk.js",
-    "main.js.map": "/buildspace-hello-eth-frontend/static/js/main.9469ab53.chunk.js.map",
+    "main.js": "/buildspace-hello-eth-frontend/static/js/main.3d6fb36e.chunk.js",
+    "main.js.map": "/buildspace-hello-eth-frontend/static/js/main.3d6fb36e.chunk.js.map",
     "runtime-main.js": "/buildspace-hello-eth-frontend/static/js/runtime-main.e2323242.js",
     "runtime-main.js.map": "/buildspace-hello-eth-frontend/static/js/runtime-main.e2323242.js.map",
     "static/js/2.e347e28f.chunk.js": "/buildspace-hello-eth-frontend/static/js/2.e347e28f.chunk.js",
     "static/js/2.e347e28f.chunk.js.map": "/buildspace-hello-eth-frontend/static/js/2.e347e28f.chunk.js.map",
     "index.html": "/buildspace-hello-eth-frontend/index.html",
-    "precache-manifest.6a0083868d9afe6d0a3a122829ef13c2.js": "/buildspace-hello-eth-frontend/precache-manifest.6a0083868d9afe6d0a3a122829ef13c2.js",
+    "precache-manifest.6a927c953ec6bf6f9f49230d67608e19.js": "/buildspace-hello-eth-frontend/precache-manifest.6a927c953ec6bf6f9f49230d67608e19.js",
     "service-worker.js": "/buildspace-hello-eth-frontend/service-worker.js",
     "static/css/main.0e632e19.chunk.css.map": "/buildspace-hello-eth-frontend/static/css/main.0e632e19.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.e2323242.js",
     "static/js/2.e347e28f.chunk.js",
     "static/css/main.0e632e19.chunk.css",
-    "static/js/main.9469ab53.chunk.js"
+    "static/js/main.3d6fb36e.chunk.js"
   ]
 }
